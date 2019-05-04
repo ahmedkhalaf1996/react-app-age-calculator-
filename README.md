@@ -1,3 +1,9 @@
+# ![React + Redux Example App](project-logo.png)
+
+[![RealWorld Frontend](https://img.shields.io/badge/realworld-frontend-%23783578.svg)](http://realworld.io)
+
+> ### React App to now how old are you by day month years
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
